@@ -1,11 +1,11 @@
 # Edit-para-la-vista-viewalumnos
 
-Crear el elemento Edit para la vista viewalumnos
+Crear el elemento Edit para la vista viewalumnos<br><br>
 
-Crear dentro del Modelo la función editar
-Crear la vista con los datos del alumno
-Modificar/crear el controlador editar alumno que utilice el método post para recibir los parametros
-Actualizar la vista viewalumnos 
+-Crear dentro del Modelo la función editar<br>
+-Crear la vista con los datos del alumno<br>
+-Modificar/crear el controlador editar alumno que utilice el método post para recibir los parametros<br>
+-Actualizar la vista viewalumnos <br>
 
 UNIVERSIDAD AUTÓNOMA DE CAMPECHE<br>
 Ingeniería en Sistemas computacionales<br><br>
